@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="xHSBTTnX6068uDvdDg9S9Q" DesignTimeRectangle="11, 45, 40, 29" FriendlyName="'File'" FullSelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='File' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='File' role='menu item' automationid='' check:text='File' /&gt;" Guid="cb697815-73c4-4f5d-b45e-67bb9e2a62b8" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Employee Details.txt - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0HncltX-pWU-sAHsCRSxAyQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="10f2563f79282181fd11c14ae9973cbd.png" xmlns="">0HmmUsXNTmkeHYZ8_pbRakw</imageRef>
+</TargetAnchorable>

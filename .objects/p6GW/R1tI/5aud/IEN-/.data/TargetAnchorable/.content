@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="zK-Ub16PlUWnIebXXITAJQ" DesignTimeRectangle="489, 1, 71, 44" ElementType="Button" FriendlyName="'Close'" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="2554e058-8b38-49b9-9bec-16afdc00f201" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Employee Details.txt - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0ewqZlmg_ukqYVdqBhvOYqw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6a657e918094ca97d8a6ea987e21472e.png" xmlns="">0IsJf0PXPrk2X3s8Hf4DHvg</imageRef>
+</TargetAnchorable>
